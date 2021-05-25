@@ -31,12 +31,15 @@ body{
 }
 
 .form__fieldset{
-    /* background-color: royalblue;
-    border: 2px solid black; */
     margin: auto;
     width: 50%;
     min-height: 200px;
     padding: 20px;
+}
+
+.form__button-container{
+    width: 50%;
+    margin: 10px auto;
 }
 
 .form__label{
